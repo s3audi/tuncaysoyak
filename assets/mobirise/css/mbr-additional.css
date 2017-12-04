@@ -844,21 +844,7 @@ a:hover {
   color: #fff;
 }
 
-#features20-1o .mbr-section-title,
-#features20-1o .mbr-section-subtitle,
-#features20-1o .mbr-section-text {
-  color: #fff;
-}
-#features20-1o .mbr-iconfont {
-  color: #fff;
-  border-color: #fff;
-}
-#custom-html-1s {
-  /* Type valid CSS here */
-}
-#custom-html-1s .my-image {
-  width: 100%;
-}
+
 #menu1-1q .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -923,6 +909,27 @@ a:hover {
 #menu1-1q .link[aria-expanded="true"],
 #menu1-1q .dropdown-item[aria-expanded="true"] {
   color: #5aac98!important;
+}
+#content5-2i .mbr-section-title,
+#content5-2i .mbr-section-subtitle {
+  margin-bottom: 1rem;
+  color: #ffffff;
+}
+#content5-2i .mbr-iconfont {
+  color: undefined;
+  border-color: undefined;
+}
+#content5-2i .mbr-table-cell {
+  vertical-align: middle;
+}
+#content5-2i .heading-title {
+  font-family: 'Noto Sans', sans-serif;
+}
+#custom-html-2h {
+  /* Type valid CSS here */
+}
+#custom-html-2h .my-image {
+  width: 100%;
 }
 
 #features20-18 .mbr-section-title,

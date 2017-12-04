@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-12-02_0704",
-    "currentPage": "iletisim.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "directm",
       "title": "DirectM",
@@ -25,7 +25,7 @@
       ]
     },
     "versionFirst": "4.5.2",
-    "uniqCompNum": 86,
+    "uniqCompNum": 92,
     "versionPublish": "4.5.2"
   },
   "pages": {
@@ -310,7 +310,7 @@
             "fontColor": "#74a3c7",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">ANASAYFA</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">FOTO-VİDEO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"foto.html\">FOTOĞRAFLAR</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"video.html\">VİDEOLAR</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">SOSYAL MEDYA</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.facebook.com/tsoyak\" target=\"_blank\">FACEBOOK</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.instagram.com/tuncaysoyaksk/\" target=\"_blank\">INSTAGRAM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.youtube.com/channel/UCfuwxXK9Duu7AkcPHwM6oRA\" target=\"_blank\">YOUTUBE<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://twitter.com/tuncaysoyak10\" target=\"_blank\">TWITTER</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"iletisim.html\" aria-expanded=\"false\">İLETİŞİM</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary btn-lg btn\" href=\"kurs.html\">fUTBOL kURS bAŞURU</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">ANASAYFA</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">FOTO-VİDEO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"foto.html\">FOTOĞRAFLAR</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"video.html\">VİDEOLAR</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">SOSYAL MEDYA</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.facebook.com/tsoyak\" target=\"_blank\">FACEBOOK</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.instagram.com/tuncaysoyaksk/\" target=\"_blank\">INSTAGRAM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.youtube.com/channel/UCfuwxXK9Duu7AkcPHwM6oRA\" target=\"_blank\">YOUTUBE<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://twitter.com/tuncaysoyak10\" target=\"_blank\">TWITTER</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"iletisim.html\" aria-expanded=\"false\">İLETİŞİM</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary btn-lg btn\" href=\"kurs.html\">fUTBOL kURS bAŞURU</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -748,9 +748,9 @@
             "overlayOpacity": 0.4
           },
           "heading": "Copyright 2018, <a href=\"http://www.semtasoft.com\" target=\"_blank\">Semtasoft</a>",
-          "list1": "<a href=\"Anasayfa\">Anasayfa</a>",
-          "list2": "<a href=\"Anasayfa\">Hakımızda</a>",
-          "list3": "<a href=\"iletisim\">İletişim</a>",
+          "list1": "<a href=\"index.html\">Anasayfa</a>",
+          "list2": "<a href=\"index.html\">Hakımızda</a>",
+          "list3": "<a href=\"iletisim.html\">İletişim</a>",
           "list4": "<a href=\"http://mobirise.com\">Host anywhere</a>",
           "list5": "<a href=\"http://mobirise.com\">Image/Content slider</a>",
           "list6": "<a href=\"http://mobirise.com\">Contact forms</a>",
@@ -1017,17 +1017,17 @@
             "overlayColor": "#fff",
             "overlayOpacity": 0.9
           },
-          "text1": "+90 212 222 22 22",
-          "text2": "+90 212 222 22 22",
-          "title1": "Forlife Sport Center",
-          "title2": "tuncaysoyak futbol akademi",
+          "text1": "+90 532 715 70 76",
+          "text2": "+90 212 881 61 61",
+          "title1": "TUNcaysoyk futbol akademi",
+          "title2": "tuncaysoyak whatsapp ve mobil",
           "title3": "Arayabilirsiniz",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"tel:+905559657952\" data-toolbar=\"-mbrBtnMove\">Tıklayınız</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"tel:+905327157076\" data-toolbar=\"-mbrBtnMove\">Mobil Telefon</a>",
           "_tags": [
             "Theme"
           ],
           "_name": "footer3",
-          "_anchor": "footer3-o"
+          "_anchor": "footer3-2e"
         },
         {
           "_styles": {
@@ -1102,7 +1102,7 @@
             "fontColor": "#74a3c7",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">ANASAYFA</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">FOTO-VİDEO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"foto.html\">FOTOĞRAFLAR</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"video.html\">VİDEOLAR</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">SOSYAL MEDYA</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.facebook.com/tsoyak\" target=\"_blank\">FACEBOOK</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.instagram.com/tuncaysoyaksk/\" target=\"_blank\">INSTAGRAM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.youtube.com/channel/UCfuwxXK9Duu7AkcPHwM6oRA\" target=\"_blank\">YOUTUBE<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://twitter.com/tuncaysoyak10\" target=\"_blank\">TWITTER</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"iletisim.html\" aria-expanded=\"false\">İLETİŞİM</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary btn-lg btn\" href=\"kurs.html\">fUTBOL kURS bAŞURU</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">ANASAYFA</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">FOTO-VİDEO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"foto.html\">FOTOĞRAFLAR</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"video.html\">VİDEOLAR</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">SOSYAL MEDYA</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.facebook.com/tsoyak\" target=\"_blank\">FACEBOOK</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.instagram.com/tuncaysoyaksk/\" target=\"_blank\">INSTAGRAM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.youtube.com/channel/UCfuwxXK9Duu7AkcPHwM6oRA\" target=\"_blank\">YOUTUBE<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://twitter.com/tuncaysoyak10\" target=\"_blank\">TWITTER</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"iletisim.html\" aria-expanded=\"false\">İLETİŞİM</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary btn-lg btn\" href=\"kurs.html\">fUTBOL kURS bAŞURU</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -1294,6 +1294,31 @@
           }
         },
         {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/header/01.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "overlay": true,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.9
+          },
+          "text1": "+90 532 715 70 76",
+          "text2": "+90 212 881 61 61",
+          "title1": "TUNcaysoyk futbol akademi",
+          "title2": "tuncaysoyak whatsapp ve mobil",
+          "title3": "Arayabilirsiniz",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"tel:+905327157076\" data-toolbar=\"-mbrBtnMove\">Mobil Telefon</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer3",
+          "_anchor": "footer3-2g"
+        },
+        {
           "_styles": {
             ".hide-buttons .nav-btn": {
               "display": "none !important"
@@ -1366,7 +1391,7 @@
             "fontColor": "#74a3c7",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">ANASAYFA</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">FOTO-VİDEO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"foto.html\">FOTOĞRAFLAR</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"video.html\">VİDEOLAR</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">SOSYAL MEDYA</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.facebook.com/tsoyak\" target=\"_blank\">FACEBOOK</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.instagram.com/tuncaysoyaksk/\" target=\"_blank\">INSTAGRAM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.youtube.com/channel/UCfuwxXK9Duu7AkcPHwM6oRA\" target=\"_blank\">YOUTUBE<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://twitter.com/tuncaysoyak10\" target=\"_blank\">TWITTER</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"iletisim.html\" aria-expanded=\"false\">İLETİŞİM</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary btn-lg btn\" href=\"kurs.html\">fUTBOL kURS bAŞURU</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">ANASAYFA</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">FOTO-VİDEO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"foto.html\">FOTOĞRAFLAR</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"video.html\">VİDEOLAR</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">SOSYAL MEDYA</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.facebook.com/tsoyak\" target=\"_blank\">FACEBOOK</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.instagram.com/tuncaysoyaksk/\" target=\"_blank\">INSTAGRAM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.youtube.com/channel/UCfuwxXK9Duu7AkcPHwM6oRA\" target=\"_blank\">YOUTUBE<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://twitter.com/tuncaysoyak10\" target=\"_blank\">TWITTER</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"iletisim.html\" aria-expanded=\"false\">İLETİŞİM</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary btn-lg btn\" href=\"kurs.html\">fUTBOL kURS bAŞURU</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -1413,9 +1438,9 @@
             "overlayOpacity": 0.4
           },
           "heading": "Copyright 2018, <a href=\"http://www.semtasoft.com\" target=\"_blank\">Semtasoft</a>",
-          "list1": "<a href=\"Anasayfa\">Anasayfa</a>",
-          "list2": "<a href=\"Anasayfa\">Hakımızda</a>",
-          "list3": "<a href=\"iletisim\">İletişim</a>",
+          "list1": "<a href=\"index.html\">Anasayfa</a>",
+          "list2": "<a href=\"index.html\">Hakımızda</a>",
+          "list3": "<a href=\"iletisim.html\">İletişim</a>",
           "list4": "<a href=\"http://mobirise.com\">Host anywhere</a>",
           "list5": "<a href=\"http://mobirise.com\">Image/Content slider</a>",
           "list6": "<a href=\"http://mobirise.com\">Contact forms</a>",
@@ -1442,31 +1467,6 @@
               "color": "#fff"
             }
           }
-        },
-        {
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/header/01.jpg",
-            "parallax": false,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "overlay": true,
-            "overlayColor": "#fff",
-            "overlayOpacity": 0.9
-          },
-          "text1": "+90 212 222 22 22",
-          "text2": "+90 212 222 22 22",
-          "title1": "Forlife Sport Center",
-          "title2": "tuncaysoyak futbol akademi",
-          "title3": "Arayabilirsiniz",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"tel:+905559657952\" data-toolbar=\"-mbrBtnMove\">Tıklayınız</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "footer3",
-          "_anchor": "footer3-x"
         }
       ]
     },
@@ -1480,159 +1480,6 @@
         "order": 6
       },
       "components": [
-        {
-          "_inherit": "features13",
-          "_styles": {
-            ".mbr-section-title,.mbr-section-subtitle,.mbr-section-text": {
-              "color": "#fff"
-            },
-            ".mbr-iconfont": {
-              "color": "#fff",
-              "border-color": "#fff"
-            }
-          },
-          "_params": {
-            "paddingTop": "4",
-            "paddingBottom": "0",
-            "showHeading": true,
-            "showTitle": true,
-            "showText": false,
-            "showButtons": false,
-            "contentAlign": "center",
-            "columns": 3,
-            "showFeaturesImages": true,
-            "iconsBgColor": "#fff",
-            "showFeaturesTitles": false,
-            "showFeaturesTexts": true,
-            "showFeaturesButtons": false,
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/09.jpg",
-            "parallax": false,
-            "bgColorRadio": false,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=fwkKc6M60-0"
-            },
-            "overlay": true,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.85
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "title": "Amacımız ve Hedefimiz",
-          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptates, sed iusto corrupti explicabo. Dignissimos, harum. Adipisci dolorem odit minima assumenda nostrum quam nihil, iusto, ad eligendi laudantium doloribus eius reiciendis.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">GET STARTED</a>",
-          "media1": {
-            "iconFont": {
-              "class": "mbr-iconfont",
-              "linkInNewWindow": false,
-              "name": "sport-shirt",
-              "family": "icon54",
-              "active": true,
-              "link": "https://mobirise.com",
-              "color": "#dbae54"
-            }
-          },
-          "title1": "What is Mobirise",
-          "subtitle1": "Awesome",
-          "text1": "Doğru liderlik yapabilme becerilerini kazandırmak. Motivasyonu yüksek, sorumluluk alabilen sporcular yetiştirmek. Takımdaşlık ve takım bilincinin öneminin kavranması. Birliktelğin arttırılması.",
-          "button1": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
-          "media2": {
-            "iconFont": {
-              "class": "mbr-iconfont",
-              "linkInNewWindow": false,
-              "name": "sport-shoe",
-              "family": "icon54",
-              "active": true,
-              "link": "index.html",
-              "newWindow": false,
-              "color": "#bb8c2e"
-            }
-          },
-          "title2": "What is Mobirise",
-          "subtitle2": "Awesome",
-          "text2": "Antrenör ve yöneticilerle iletişimin geliştirilmesine katkıda bulunmak.&nbsp;Antrenörlerin sporcu velisi ve çevresi (medya) ile ilişkilerinde iletişimlerini geliştirme konusunda danışmanlık yapmak.&nbsp;",
-          "button2": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
-          "media3": {
-            "iconFont": {
-              "class": "mbr-iconfont",
-              "linkInNewWindow": false,
-              "name": "soccer-ball-o",
-              "family": "FontAwesome",
-              "active": true,
-              "link": "https://mobirise.com",
-              "color": "#ffd785"
-            }
-          },
-          "title3": "What is Mobirise",
-          "subtitle3": "Awesome",
-          "text3": "Toplumda spor farkındalığını oluşturarak Spor’a olan ilgi ve duyarlılığı arttırmak. Hareketsiz yaşam biçimden uzaklaştırıp çocuklarının ve kendilerini spora yönlendirerek yaşam kalitelerini yükseltmek,",
-          "button3": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
-          "media4": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont",
-              "name": "hot-cup",
-              "link": "https://mobirise.com",
-              "family": "MobiriseIcons"
-            }
-          },
-          "title4": "What is Mobirise",
-          "subtitle4": "Awesome",
-          "text4": "Mobirise is an offline app for Window and Mac to easily create small/medium websites, landing pages, online resumes and portfolios, promo sites for apps, events, services and products.",
-          "button4": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
-          "_name": "features20",
-          "_anchor": "features20-1o"
-        },
-        {
-          "_customTemplate": true,
-          "_afterNavbarItem": false,
-          "_customHTML": "<iframe name=\"ifrmcits1\" src=\"https://www.classicit.net/forms/support.php\" width=\"100%\" height=\"1000px\" frameborder=\"0\" scrolling=\"no\" style=\"font-size: 1rem;\"></iframe>",
-          "_customCSS": "/* Type valid CSS here */\n.my-image {\n  width: 100%;\n}",
-          "alias": "code-editor",
-          "_tags": [
-            "Extension"
-          ],
-          "_name": "pro.custom-html",
-          "_anchor": "custom-html-1s",
-          "_PHPplaceholders": [],
-          "_JSplaceholders": []
-        },
-        {
-          "_params": {
-            "token": "1023331504.727bfe1.d0c2852d36264b2fa65c6d4ab32ab4d6",
-            "showTitle": true,
-            "layoutGridRadio": true,
-            "imagesPerRowGrid": 4,
-            "rows": 2,
-            "showMoreButton": true,
-            "layoutSliderRadio": false,
-            "imagesPerRowSlider": 4,
-            "spacing": 5,
-            "fullWidth": false,
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColorRadio": true,
-            "bgColor": "#fffffd",
-            "bgImageRadio": false,
-            "bgImage": "@ADDONS_PATH@/instagram-feed/instagram-feed-block/assets/instagram-background.jpg",
-            "overlay": false,
-            "overlayColor": "#efefef",
-            "overlayOpacity": 0.6
-          },
-          "title": "Tuncaysoyak",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-md btn-primary display-4\" href=\"#\" data-max-id=\"1647112634208004035_1023331504\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,-mbrLink\">Daha Fazla Göster<br></a>",
-          "display2": "display-2",
-          "display4": "display-4",
-          "alias": "instagram-feed",
-          "_tags": [
-            "Extension"
-          ],
-          "_name": "instagram-feed-block",
-          "_anchor": "instagram-feed-block-1p"
-        },
         {
           "_styles": {
             ".hide-buttons .nav-btn": {
@@ -1706,7 +1553,7 @@
             "fontColor": "#74a3c7",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">ANASAYFA</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">FOTO-VİDEO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"foto.html\">FOTOĞRAFLAR</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"video.html\">VİDEOLAR</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">SOSYAL MEDYA</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.facebook.com/tsoyak\" target=\"_blank\">FACEBOOK</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.instagram.com/tuncaysoyaksk/\" target=\"_blank\">INSTAGRAM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.youtube.com/channel/UCfuwxXK9Duu7AkcPHwM6oRA\" target=\"_blank\">YOUTUBE<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://twitter.com/tuncaysoyak10\" target=\"_blank\">TWITTER</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"iletisim.html\" aria-expanded=\"false\">İLETİŞİM</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary btn-lg btn\" href=\"kurs.html\">fUTBOL kURS bAŞURU</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">ANASAYFA</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">FOTO-VİDEO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"foto.html\">FOTOĞRAFLAR</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"video.html\">VİDEOLAR</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">SOSYAL MEDYA</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.facebook.com/tsoyak\" target=\"_blank\">FACEBOOK</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.instagram.com/tuncaysoyaksk/\" target=\"_blank\">INSTAGRAM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.youtube.com/channel/UCfuwxXK9Duu7AkcPHwM6oRA\" target=\"_blank\">YOUTUBE<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://twitter.com/tuncaysoyak10\" target=\"_blank\">TWITTER</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"iletisim.html\" aria-expanded=\"false\">İLETİŞİM</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary btn-lg btn\" href=\"kurs.html\">fUTBOL kURS bAŞURU</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -1732,6 +1579,65 @@
           "_anchor": "menu1-1q"
         },
         {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "margin-bottom": "1rem",
+              "color": "#ffffff"
+            },
+            ".mbr-iconfont": {},
+            ".mbr-table-cell": {
+              "vertical-align": "middle"
+            },
+            ".heading-title": {
+              "font-family": "'Noto Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Noto+Sans:400,700"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButtons": false,
+            "contentAlign": "left",
+            "paddingTop": "7",
+            "paddingBottom": "2",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-3-1620x1080.jpg",
+            "parallax": false,
+            "bgColorRadio": false,
+            "containerColor1": "#19b68f",
+            "containerColor2": "#446494",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=fwkKc6M60-0"
+            },
+            "overlay": true,
+            "overlayColor": "#000000",
+            "overlayOpacity": 0.2
+          },
+          "title": "Kurs Başvuru Formu",
+          "text": "Click any text to edit or style it. Click blue \"Gear\" icon in the top right corner to hide/show buttons, text, title and change the block background. Click red \"+\" in the bottom right corner to add a new block. Use the top left menu to create new pages, sites and add extensions.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">Download for Windows</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-2i"
+        },
+        {
+          "_customTemplate": true,
+          "_afterNavbarItem": false,
+          "_customHTML": "<!-- Type valid HTML here -->\n\n    <iframe id=\"JotFormIFrame-73365897027973\" onload=\"window.parent.scrollTo(0,0)\" allowtransparency=\"true\" src=\"https://form.jotform.com/73365897027973\" frameborder=\"0\" style=\"width: 1px;\n      min-width: 100%;\n      height:1539px;\n      border:none;\" scrolling=\"no\">\n    </iframe>",
+          "_customCSS": "/* Type valid CSS here */\n.my-image {\n  width: 100%;\n}",
+          "alias": "code-editor",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "pro.custom-html",
+          "_anchor": "custom-html-2h",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": []
+        },
+        {
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
@@ -1744,17 +1650,17 @@
             "overlayColor": "#fff",
             "overlayOpacity": 0.9
           },
-          "text1": "+90 212 222 22 22",
-          "text2": "+90 212 222 22 22",
-          "title1": "Forlife Sport Center",
-          "title2": "tuncaysoyak futbol akademi",
+          "text1": "+90 532 715 70 76",
+          "text2": "+90 212 881 61 61",
+          "title1": "TUNcaysoyk futbol akademi",
+          "title2": "tuncaysoyak whatsapp ve mobil",
           "title3": "Arayabilirsiniz",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"tel:+905559657952\" data-toolbar=\"-mbrBtnMove\">Tıklayınız</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"tel:+905327157076\" data-toolbar=\"-mbrBtnMove\">Mobil Telefon</a>",
           "_tags": [
             "Theme"
           ],
           "_name": "footer3",
-          "_anchor": "footer3-1r"
+          "_anchor": "footer3-2j"
         }
       ]
     },
@@ -1970,7 +1876,7 @@
             "fontColor": "#74a3c7",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">ANASAYFA</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">FOTO-VİDEO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"foto.html\">FOTOĞRAFLAR</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"video.html\">VİDEOLAR</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">SOSYAL MEDYA</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.facebook.com/tsoyak\" target=\"_blank\">FACEBOOK</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.instagram.com/tuncaysoyaksk/\" target=\"_blank\">INSTAGRAM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.youtube.com/channel/UCfuwxXK9Duu7AkcPHwM6oRA\" target=\"_blank\">YOUTUBE<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://twitter.com/tuncaysoyak10\" target=\"_blank\">TWITTER</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"iletisim.html\" aria-expanded=\"false\">İLETİŞİM</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary btn-lg btn\" href=\"kurs.html\">fUTBOL kURS bAŞURU</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">ANASAYFA</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">FOTO-VİDEO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"foto.html\">FOTOĞRAFLAR</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"video.html\">VİDEOLAR</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">SOSYAL MEDYA</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.facebook.com/tsoyak\" target=\"_blank\">FACEBOOK</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.instagram.com/tuncaysoyaksk/\" target=\"_blank\">INSTAGRAM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.youtube.com/channel/UCfuwxXK9Duu7AkcPHwM6oRA\" target=\"_blank\">YOUTUBE<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://twitter.com/tuncaysoyak10\" target=\"_blank\">TWITTER</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"iletisim.html\" aria-expanded=\"false\">İLETİŞİM</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary btn-lg btn\" href=\"kurs.html\">fUTBOL kURS bAŞURU</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -2572,7 +2478,7 @@
             "fontColor": "#74a3c7",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">ANASAYFA</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">FOTO-VİDEO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"foto.html\">FOTOĞRAFLAR</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"video.html\">VİDEOLAR</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">SOSYAL MEDYA</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.facebook.com/tsoyak\" target=\"_blank\">FACEBOOK</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.instagram.com/tuncaysoyaksk/\" target=\"_blank\">INSTAGRAM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.youtube.com/channel/UCfuwxXK9Duu7AkcPHwM6oRA\" target=\"_blank\">YOUTUBE<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://twitter.com/tuncaysoyak10\" target=\"_blank\">TWITTER</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"iletisim.html\" aria-expanded=\"false\">İLETİŞİM</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary btn-lg btn\" href=\"kurs.html\">fUTBOL kURS bAŞURU</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">ANASAYFA</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">FOTO-VİDEO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"foto.html\">FOTOĞRAFLAR</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"video.html\">VİDEOLAR</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">SOSYAL MEDYA</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.facebook.com/tsoyak\" target=\"_blank\">FACEBOOK</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.instagram.com/tuncaysoyaksk/\" target=\"_blank\">INSTAGRAM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.youtube.com/channel/UCfuwxXK9Duu7AkcPHwM6oRA\" target=\"_blank\">YOUTUBE<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://twitter.com/tuncaysoyak10\" target=\"_blank\">TWITTER</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"iletisim.html\" aria-expanded=\"false\">İLETİŞİM</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary btn-lg btn\" href=\"kurs.html\">fUTBOL kURS bAŞURU</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -2619,9 +2525,9 @@
             "overlayOpacity": 0.4
           },
           "heading": "Copyright 2018, <a href=\"http://www.semtasoft.com\" target=\"_blank\">Semtasoft</a>",
-          "list1": "<a href=\"Anasayfa\">Anasayfa</a>",
-          "list2": "<a href=\"Anasayfa\">Hakımızda</a>",
-          "list3": "<a href=\"iletisim\">İletişim</a>",
+          "list1": "<a href=\"index.html\">Anasayfa</a>",
+          "list2": "<a href=\"index.html\">Hakımızda</a>",
+          "list3": "<a href=\"iletisim.html\">İletişim</a>",
           "list4": "<a href=\"http://mobirise.com\">Host anywhere</a>",
           "list5": "<a href=\"http://mobirise.com\">Image/Content slider</a>",
           "list6": "<a href=\"http://mobirise.com\">Contact forms</a>",
@@ -2673,6 +2579,31 @@
           ],
           "_name": "feed",
           "_anchor": "feed-26"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/header/01.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "overlay": true,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.9
+          },
+          "text1": "+90 532 715 70 76",
+          "text2": "+90 212 881 61 61",
+          "title1": "TUNcaysoyk futbol akademi",
+          "title2": "tuncaysoyak whatsapp ve mobil",
+          "title3": "Arayabilirsiniz",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"tel:+905327157076\" data-toolbar=\"-mbrBtnMove\">Mobil Telefon</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer3",
+          "_anchor": "footer3-2f"
         }
       ]
     },
@@ -2898,7 +2829,7 @@
             "fontColor": "#74a3c7",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">ANASAYFA</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">FOTO-VİDEO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"foto.html\">FOTOĞRAFLAR</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"video.html\">VİDEOLAR</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">SOSYAL MEDYA</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.facebook.com/tsoyak\" target=\"_blank\">FACEBOOK</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.instagram.com/tuncaysoyaksk/\" target=\"_blank\">INSTAGRAM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.youtube.com/channel/UCfuwxXK9Duu7AkcPHwM6oRA\" target=\"_blank\">YOUTUBE<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://twitter.com/tuncaysoyak10\" target=\"_blank\">TWITTER</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"iletisim.html\" aria-expanded=\"false\">İLETİŞİM</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary btn-lg btn\" href=\"kurs.html\">fUTBOL kURS bAŞURU</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">ANASAYFA</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">FOTO-VİDEO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"foto.html\">FOTOĞRAFLAR</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"video.html\">VİDEOLAR</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">SOSYAL MEDYA</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.facebook.com/tsoyak\" target=\"_blank\">FACEBOOK</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.instagram.com/tuncaysoyaksk/\" target=\"_blank\">INSTAGRAM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.youtube.com/channel/UCfuwxXK9Duu7AkcPHwM6oRA\" target=\"_blank\">YOUTUBE<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://twitter.com/tuncaysoyak10\" target=\"_blank\">TWITTER</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"iletisim.html\" aria-expanded=\"false\">İLETİŞİM</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary btn-lg btn\" href=\"kurs.html\">fUTBOL kURS bAŞURU</a></li>",
           "logo": {
             "image": {
               "active": true,
