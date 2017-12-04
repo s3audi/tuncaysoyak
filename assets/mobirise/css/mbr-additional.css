@@ -648,10 +648,15 @@ a:hover {
 }
 
 
+
 #content7-1m .mbr-section-title,
 #content7-1m .mbr-section-subtitle {
   margin-bottom: 1rem;
   color: #fff;
+}
+#content7-1m .mbr-iconfont {
+  color: undefined;
+  border-color: undefined;
 }
 #content7-1m .mbr-table-cell {
   vertical-align: middle;
@@ -659,13 +664,12 @@ a:hover {
 #content7-1m .heading-title {
   font-family: 'Arimo', sans-serif;
 }
-#content7-n .mbr-section-title,
-#content7-n .mbr-section-subtitle {
-  margin-bottom: 1rem;
-  color: #fff;
+#content3-2d .mbr-section-title,
+#content3-2d .mbr-section-subtitle {
+  text-align: center;
 }
-#content7-n .mbr-table-cell {
-  vertical-align: middle;
+#content3-2d H1 {
+  font-family: 'Arimo', sans-serif;
 }
 #menu1-10 .hide-buttons .nav-btn {
   display: none !important;
@@ -759,12 +763,6 @@ a:hover {
   font-family: 'Droid Sans', sans-serif;
   font-size: 32px;
   color: #1f8068;
-}
-#custom-html-2c {
-  /* Type valid CSS here */
-}
-#custom-html-2c .my-image {
-  width: 100%;
 }
 #form2-1t .heading {
   background: #5aac98;
@@ -1033,6 +1031,10 @@ a:hover {
 #content5-1z .mbr-section-subtitle {
   margin-bottom: 1rem;
   color: #ffffff;
+}
+#content5-1z .mbr-iconfont {
+  color: undefined;
+  border-color: undefined;
 }
 #content5-1z .mbr-table-cell {
   vertical-align: middle;
