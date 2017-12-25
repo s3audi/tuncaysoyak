@@ -2371,8 +2371,8 @@
               "url": "https://www.youtube.com/watch?v=fwkKc6M60-0"
             },
             "overlay": true,
-            "overlayColor": "#000000",
-            "overlayOpacity": 0.2
+            "overlayColor": "#264a54",
+            "overlayOpacity": "0.6"
           },
           "title": "Videolar",
           "text": "Click any text to edit or style it. Click blue \"Gear\" icon in the top right corner to hide/show buttons, text, title and change the block background. Click red \"+\" in the bottom right corner to add a new block. Use the top left menu to create new pages, sites and add extensions.",
