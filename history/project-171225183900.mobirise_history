@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "Tuncaysoyak2018",
+    "name": "Site-12-02_0704",
     "currentPage": "index.html",
     "theme": {
       "name": "directm",
@@ -26,12 +26,7 @@
     },
     "versionFirst": "4.5.2",
     "uniqCompNum": 92,
-    "versionPublish": "4.5.2",
-    "favicon": "",
-    "noImageResize": "",
-    "cookiesAlert": "",
-    "google-analytics": "",
-    "siteUrl": "undefined"
+    "versionPublish": "4.5.2"
   },
   "pages": {
     "index.html": {
@@ -55,7 +50,7 @@
             },
             "video": {
               "active": true,
-              "src": "https://www.youtube.com/embed/0NP_Kp9zp9I",
+              "src": "https://www.youtube.com/embed/45H33JG4m1w",
               "autoplay": "on",
               "loop": false
             }
