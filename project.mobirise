@@ -31,7 +31,9 @@
     "noImageResize": "",
     "cookiesAlert": "",
     "google-analytics": "",
-    "siteUrl": "undefined"
+    "siteUrl": "undefined",
+    "publishType": "local",
+    "publishPath": "@PROJECT_PATH@"
   },
   "pages": {
     "index.html": {
